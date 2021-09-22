@@ -10,7 +10,7 @@ The data from Box Office Mojo will be retrieved using Python packages built for 
 Features for each movie that I expect to work with include:
 * movie title
 * lifetime gross earnings
-# lifetime gross earnings rank
+* lifetime gross earnings rank
 * release year
 * release date
 * release season (eg. fall, winter, spring, summer)
